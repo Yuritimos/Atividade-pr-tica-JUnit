@@ -1,4 +1,4 @@
-package exercicio;
+
 
 /**
  * Objetivo: Essa classe tem como o objetivo criar um objeto caixa de son
